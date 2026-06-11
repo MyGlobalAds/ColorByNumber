@@ -11,6 +11,11 @@
 	  "premium": [],
       "total": 30
     },
+	{
+      "category": "Interior",
+	  "premium": [],
+      "total": 30
+    },
     {
       "category": "Fantasy",
 	  "premium": [2,4],
