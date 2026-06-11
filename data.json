@@ -1,0 +1,36 @@
+{
+  "dataVersion": 1,
+  "images": [
+  
+    {
+      "category": "Banners",
+      "total": 5
+    },
+	{
+      "category": "Portraits",
+	  "premium": [],
+      "total": 30
+    },
+    {
+      "category": "Fantasy",
+	  "premium": [2,4],
+      "total": 30
+    },
+    {
+      "category": "Anime",
+	  "premium": [2,4],
+      "total": 60
+    },
+  {
+      "category": "Cities",
+	  "premium": [2,4],
+      "total": 30
+    },
+
+	{
+      "category": "Nature",
+	  "premium": [2,4],
+      "total": 30
+    }
+]}
+	  
