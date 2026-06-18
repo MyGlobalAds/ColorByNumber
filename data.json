@@ -6,7 +6,18 @@
       "category": "Banners",
       "total": 5
     },
-	{
+{
+      "category": "Football"
+	  "premium": [],
+      "total": 30
+    },
+{
+      "category": "Mandalas"
+	  "premium": [],
+      "total": 30
+    },
+
+    {
       "category": "Portraits",
 	  "premium": [],
       "total": 30
