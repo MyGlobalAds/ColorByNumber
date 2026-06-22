@@ -1,7 +1,6 @@
 {
   "dataVersion": 1,
   "images": [
-  
     {
       "category": "Banners",
       "total": 5
@@ -11,46 +10,44 @@
       "total": 30
     },
     {
-      "category": "Football",
-	  "premium": [2, 3],
-      "total": 30
-    },
-     {
-      "category": "Mandalas",
-	  "premium": [],
-      "total": 30
-    },
-
-    {
-      "category": "Portraits",
-	  "premium": [1, 4],
-      "total": 30
-    },
-	{
-      "category": "Interior",
-	  "premium": [],
-      "total": 30
-    },
-    {
       "category": "Fantasy",
-	  "premium": [2,4],
+      "premium": [2, 4],
+      "total": 30
+    },
+    {
+      "category": "Nature",
+      "premium": [2, 4],
+      "total": 30
+    },
+    {
+      "category": "Mandalas",
+      "premium": [],
       "total": 30
     },
     {
       "category": "Anime",
-	  "premium": [2,4],
+      "premium": [2, 4],
       "total": 60
     },
-  {
-      "category": "Cities",
-	  "premium": [2,4],
+    {
+      "category": "Portraits",
+      "premium": [1, 4],
       "total": 30
     },
-
-	{
-      "category": "Nature",
-	  "premium": [2,4],
+    {
+      "category": "Interior",
+      "premium": [],
+      "total": 30
+    },
+    {
+      "category": "Cities",
+      "premium": [2, 4],
+      "total": 30
+    },
+    {
+      "category": "Football",
+      "premium": [2, 3],
       "total": 30
     }
-]}
-	  
+  ]
+}
