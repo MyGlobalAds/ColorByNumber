@@ -7,8 +7,12 @@
       "total": 5
     },
     {
+      "category": "Daily",
+      "total": 30
+    },
+    {
       "category": "Football",
-	  "premium": [],
+	  "premium": [2, 3],
       "total": 30
     },
      {
@@ -19,7 +23,7 @@
 
     {
       "category": "Portraits",
-	  "premium": [],
+	  "premium": [1, 4],
       "total": 30
     },
 	{
