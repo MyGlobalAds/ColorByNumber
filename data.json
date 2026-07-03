@@ -11,7 +11,10 @@
     },
     {
       "category": "Football",
-      "premium": [2, 3],
+      "premium": [
+        2,
+        3
+      ],
       "total": 30
     },
     {
@@ -19,17 +22,23 @@
       "total": 30
     },
     {
-      "category": "Animal",
-      "total": 30
-    },
+      "category": "Animal",
+      "total": 30
+    },
     {
       "category": "Fantasy",
-      "premium": [2, 4],
+      "premium": [
+        2,
+        4
+      ],
       "total": 30
     },
     {
       "category": "Nature",
-      "premium": [2, 4],
+      "premium": [
+        2,
+        4
+      ],
       "total": 60
     },
     {
@@ -39,12 +48,18 @@
     },
     {
       "category": "Anime",
-      "premium": [2, 4],
+      "premium": [
+        2,
+        4
+      ],
       "total": 60
     },
     {
       "category": "Portraits",
-      "premium": [1, 4],
+      "premium": [
+        1,
+        4
+      ],
       "total": 30
     },
     {
@@ -54,7 +69,10 @@
     },
     {
       "category": "Cities",
-      "premium": [2, 4],
+      "premium": [
+        2,
+        4
+      ],
       "total": 60
     }
   ]
