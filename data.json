@@ -1,5 +1,5 @@
 {
-  "dataVersion": 4,
+  "dataVersion": 5,
   "images": [
     {
       "category": "Banners",
@@ -10,9 +10,18 @@
       "total": 30
     },
     {
+      "category": "Football",
+      "premium": [2, 3],
+      "total": 30
+    },
+    {
       "category": "Butterfly",
       "total": 30
     },
+    {
+      "category": "Animal",
+      "total": 30
+    },
     {
       "category": "Fantasy",
       "premium": [2, 4],
@@ -47,11 +56,6 @@
       "category": "Cities",
       "premium": [2, 4],
       "total": 60
-    },
-    {
-      "category": "Football",
-      "premium": [2, 3],
-      "total": 30
     }
   ]
 }
