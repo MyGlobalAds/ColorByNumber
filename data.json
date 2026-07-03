@@ -10,11 +10,7 @@
       "total": 30
     },
     {
-      "category": "Football",
-      "premium": [
-        2,
-        3
-      ],
+      "category": "Animal",
       "total": 30
     },
     {
@@ -22,7 +18,11 @@
       "total": 30
     },
     {
-      "category": "Animal",
+      "category": "Football",
+      "premium": [
+        2,
+        3
+      ],
       "total": 30
     },
     {
