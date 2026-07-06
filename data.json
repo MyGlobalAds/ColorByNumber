@@ -1,5 +1,5 @@
 {
-  "dataVersion": 5,
+  "dataVersion": 6,
   "images": [
     {
       "category": "Banners",
@@ -11,7 +11,7 @@
     },
     {
       "category": "Animal",
-      "total": 30
+      "total": 60
     },
     {
       "category": "Butterfly",
@@ -52,7 +52,7 @@
         2,
         4
       ],
-      "total": 60
+      "total": 70
     },
     {
       "category": "Portraits",
