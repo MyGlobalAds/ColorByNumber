@@ -1,5 +1,5 @@
 {
-  "dataVersion": 6,
+  "dataVersion": 7,
   "images": [
     {
       "category": "Banners",
@@ -15,7 +15,7 @@
     },
     {
       "category": "Butterfly",
-      "total": 52
+      "total": 64
     },
     {
       "category": "Football",
@@ -44,7 +44,7 @@
     {
       "category": "Mandalas",
       "premium": [],
-      "total": 30
+      "total": 60
     },
     {
       "category": "Anime",
@@ -52,7 +52,7 @@
         2,
         4
       ],
-      "total": 77
+      "total": 87
     },
     {
       "category": "Portraits",
