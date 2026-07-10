@@ -1,5 +1,5 @@
 {
-  "dataVersion": 7,
+  "dataVersion": 8,
   "images": [
     {
       "category": "Banners",
@@ -47,12 +47,17 @@
       "total": 60
     },
     {
+      "category": "Tangle",
+      "premium": [],
+      "total": 30
+    },
+    {
       "category": "Anime",
       "premium": [
         2,
         4
       ],
-      "total": 87
+      "total": 97
     },
     {
       "category": "Portraits",
