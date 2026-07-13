@@ -1,5 +1,5 @@
 {
-  "dataVersion": 8,
+  "dataVersion": 9,
   "images": [
     {
       "category": "Banners",
@@ -16,6 +16,16 @@
     {
       "category": "Butterfly",
       "total": 64
+    },
+    {
+      "category": "Personalities",
+      "premium": [],
+      "total": 30
+    },
+    {
+      "category": "Mandalas",
+      "premium": [],
+      "total": 60
     },
     {
       "category": "Football",
@@ -41,11 +51,7 @@
       ],
       "total": 60
     },
-    {
-      "category": "Mandalas",
-      "premium": [],
-      "total": 60
-    },
+
     {
       "category": "Tangle",
       "premium": [],
@@ -57,7 +63,7 @@
         2,
         4
       ],
-      "total": 97
+      "total": 107
     },
     {
       "category": "Portraits",
