@@ -1,5 +1,5 @@
 {
-  "dataVersion": 10,
+  "dataVersion": 11,
   "images": [
     {
       "category": "Banners",
@@ -16,6 +16,10 @@
     {
       "category": "Butterfly",
       "total": 64
+    },
+    {
+      "category": "Foods",
+      "total": 17
     },
     {
       "category": "Personalities",
@@ -63,7 +67,7 @@
         2,
         4
       ],
-      "total": 117
+      "total": 127
     },
     {
       "category": "Portraits",
