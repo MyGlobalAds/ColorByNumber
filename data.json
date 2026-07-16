@@ -1,5 +1,5 @@
 {
-  "dataVersion": 11,
+  "dataVersion": 12,
   "images": [
     {
       "category": "Banners",
@@ -19,7 +19,7 @@
     },
     {
       "category": "Foods",
-      "total": 17
+      "total": 30
     },
     {
       "category": "Personalities",
@@ -67,7 +67,7 @@
         2,
         4
       ],
-      "total": 127
+      "total": 137
     },
     {
       "category": "Portraits",
