@@ -1,5 +1,5 @@
 {
-  "dataVersion": 12,
+  "dataVersion": 13,
   "images": [
     {
       "category": "Banners",
@@ -16,6 +16,10 @@
     {
       "category": "Butterfly",
       "total": 64
+    },
+    {
+      "category": "Surreal",
+      "total": 10
     },
     {
       "category": "Foods",
@@ -67,7 +71,7 @@
         2,
         4
       ],
-      "total": 137
+      "total": 147
     },
     {
       "category": "Portraits",
