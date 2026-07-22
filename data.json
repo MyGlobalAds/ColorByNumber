@@ -1,42 +1,51 @@
 {
-  "dataVersion": 13,
+  "dataVersion": 14,
   "images": [
     {
       "category": "Banners",
+      "color": "#D42365",
       "total": 8
     },
     {
       "category": "Daily",
+      "color": "#D42365",
       "total": 30
     },
     {
       "category": "Surreal",
+      "color": "#46388D",
       "total": 10
     },
     {
       "category": "Animal",
+      "color": "#213116",
       "total": 60
     },
     {
       "category": "Butterfly",
+      "color": "#973250",
       "total": 64
     },
     {
       "category": "Foods",
+      "color": "#DB4C42",
       "total": 30
     },
     {
       "category": "Personalities",
+      "color": "#31243E",
       "premium": [],
       "total": 60
     },
     {
       "category": "Mandalas",
+      "color": "#F8415A",
       "premium": [],
       "total": 60
     },
     {
       "category": "Football",
+      "color": "#014A37",
       "premium": [
         2,
         3
@@ -45,6 +54,7 @@
     },
     {
       "category": "Fantasy",
+      "color": "#413188",
       "premium": [
         2,
         4
@@ -53,6 +63,7 @@
     },
     {
       "category": "Nature",
+      "color": "#053019",
       "premium": [
         2,
         4
@@ -62,11 +73,13 @@
 
     {
       "category": "Tangle",
+      "color": "#D42365",
       "premium": [],
       "total": 30
     },
     {
       "category": "Anime",
+      "color": "#1E265A",
       "premium": [
         2,
         4
@@ -75,6 +88,7 @@
     },
     {
       "category": "Portraits",
+      "color": "#433050",
       "premium": [
         1,
         4
@@ -83,11 +97,13 @@
     },
     {
       "category": "Interior",
+      "color": "#B94F3D",
       "premium": [],
       "total": 60
     },
     {
       "category": "Cities",
+      "color": "#013F5C",
       "premium": [
         2,
         4
