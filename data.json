@@ -1,5 +1,5 @@
 {
-  "dataVersion": 15,
+  "dataVersion": 16,
   "images": [
     {
       "category": "Banners",
@@ -17,24 +17,13 @@
       "total": 62
     },
     {
-      "category": "Butterfly",
-      "color": "#973250",
-      "total": 64
-    },
-    {
-      "category": "Surreal",
-      "color": "#46388D",
-      "total": 10
-    },
-    {
-      "category": "Animal",
-      "color": "#213116",
+      "category": "Cities",
+      "color": "#013F5C",
+      "premium": [
+        2,
+        4
+      ],
       "total": 60
-    },
-    {
-      "category": "Kids",
-      "color": "#46388D",
-      "total": 5
     },
     {
       "category": "Foods",
@@ -42,25 +31,10 @@
       "total": 30
     },
     {
-      "category": "Personalities",
-      "color": "#31243E",
-      "premium": [],
-      "total": 60
-    },
-    {
       "category": "Mandalas",
       "color": "#F8415A",
       "premium": [],
       "total": 60
-    },
-    {
-      "category": "Football",
-      "color": "#014A37",
-      "premium": [
-        2,
-        3
-      ],
-      "total": 30
     },
     {
       "category": "Fantasy",
@@ -80,7 +54,6 @@
       ],
       "total": 60
     },
-
     {
       "category": "Tangle",
       "color": "#D42365",
@@ -88,13 +61,18 @@
       "total": 30
     },
     {
-      "category": "Anime",
-      "color": "#1E265A",
+      "category": "Butterfly",
+      "color": "#973250",
+      "total": 64
+    },
+    {
+      "category": "Football",
+      "color": "#014A37",
       "premium": [
         2,
-        4
+        3
       ],
-      "total": 147
+      "total": 30
     },
     {
       "category": "Portraits",
@@ -112,13 +90,34 @@
       "total": 60
     },
     {
-      "category": "Cities",
-      "color": "#013F5C",
+      "category": "Personalities",
+      "color": "#31243E",
+      "premium": [],
+      "total": 60
+    },
+    {
+      "category": "Anime",
+      "color": "#1E265A",
       "premium": [
         2,
         4
       ],
+      "total": 147
+    },
+    {
+      "category": "Surreal",
+      "color": "#46388D",
+      "total": 10
+    },
+    {
+      "category": "Animal",
+      "color": "#213116",
       "total": 60
+    },
+    {
+      "category": "Kids",
+      "color": "#46388D",
+      "total": 5
     }
   ]
 }
