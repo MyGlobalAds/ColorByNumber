@@ -1,5 +1,5 @@
 {
-  "dataVersion": 14,
+  "dataVersion": 15,
   "images": [
     {
       "category": "Banners",
@@ -10,6 +10,16 @@
       "category": "Daily",
       "color": "#D42365",
       "total": 30
+    },
+    {
+      "category": "Summer",
+      "color": "#D42365",
+      "total": 62
+    },
+    {
+      "category": "Butterfly",
+      "color": "#973250",
+      "total": 64
     },
     {
       "category": "Surreal",
@@ -25,11 +35,6 @@
       "category": "Kids",
       "color": "#46388D",
       "total": 5
-    },
-    {
-      "category": "Butterfly",
-      "color": "#973250",
-      "total": 64
     },
     {
       "category": "Foods",
